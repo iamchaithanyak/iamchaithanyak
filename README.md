@@ -24,8 +24,8 @@ Engineering student with ability to review plans,write reports,research solution
 - ⚡ Fun fact: <b>I ❤️ 😻s</b>
 
 ## Languages and Tools : <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
-<code><img height="30" src="https://github.com/iamchaithanyak/iamchaithanyak/blob/master/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src=""></code>
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
