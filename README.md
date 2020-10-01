@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-### Hi I'm chaithanya <img src="https://https://github.com/iamchaithanyak/iamchaithanyak/blob/master/Hi.gif" width="29px">
+### Hi I'm chaithanya <img src="https://github.com/iamchaithanyak/iamchaithanyak/blob/master/Hi.gif" width="29px">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 Engineering student with ability to review plans,write reports,research solutions and implement company procedures. Willingness to learn,ability to follow instructions and work cooperatively within team environments.🎀
 
@@ -25,6 +25,7 @@ Engineering student with ability to review plans,write reports,research solution
 
 ## Languages and Tools : <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 <code><img height="30" src="https://github.com/iamchaithanyak/iamchaithanyak/blob/master/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
